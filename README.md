@@ -74,4 +74,4 @@ You are assisting Jill, the lead Data Scientist at FAST LENDING a lending servic
 
 
 ### SUMMARY
-
+Of the 6 Machine Learning models in the Challenge, the BALANCED ACCURACY SCORE for the EASY ENSEMBLE CLASSIFIER was the highest with a 93% score.  It also showed a PRECISION of 9% and an F1 SCORE of 16% which would make the it a riskier choice.  The BALANCED RANDOM FOREST model also scored well with a percentile of 78.9%, but the PRECISION was lower at 3% compared to the EASY ENSEMBLE CLASSIFIER model.  The other models scored 64% or lower making them not as accurate.  As a result, I would recommend the EASY ENSEMBLE CLASSIFIER model out of these 6.  I could not recommend another model altogether without seeing the results.
